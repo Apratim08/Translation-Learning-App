@@ -75,9 +75,9 @@ If something shows up, copy the entire thing. else, run ssh-keygen first. (leave
 - Make sure comic_text_detector is cloned locally (use git submodule update command)
 - Make sure requirements.txt is installed
 
-## Demo
+## App Demonstration
 
-View the App Demo in this link: [Mangalingua App Demo](https://www.youtube.com/watch?v=GJKomICIqdM)
+View the App Demo in this link: [Mangalingua App](https://www.youtube.com/watch?v=4srbkxu9zmI)
 
 ## Additional information
 
